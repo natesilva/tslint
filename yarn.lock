@@ -57,10 +57,6 @@
   dependencies:
     "@types/node" "*"
 
-"@types/update-notifier@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/update-notifier/-/update-notifier-1.0.0.tgz#3ae6206a6d67c01ffddb9a1eac4cd9b518d534ee"
-
 ansi-align@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/ansi-align/-/ansi-align-1.1.0.tgz#2f0c1658829739add5ebb15e6b0c6e3423f016ba"
